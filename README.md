@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
--Nama : Bintang Restu Bawono
--NIU : 474703
--Sesi : Senin 6 Juni 2024
--Secret String : 8a01d7a41e2b0ace4ad85a9fc436e7e2deebd25d8308936dad32fcf183b652f720240603005>
+Nama : [Bintang Restu Bawono]
+NIU : [474703]
+Sesi : [Senin 6 Juni 2024]
+Secret String : [8a01d7a41e2b0ace4ad85a9fc436e7e2deebd25d8308936dad32fcf183b652f720240603005533]
 
 
 ## Checklist Responsi
